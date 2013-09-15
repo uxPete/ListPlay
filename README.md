@@ -23,7 +23,7 @@ Using
 * Double-click to play a track etc
 
 
-Useful additions
+Possible improvements
 -----------------------------------
 * edit in place - for playlist titles
 
