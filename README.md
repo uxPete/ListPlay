@@ -2,6 +2,7 @@ ListPlay
 ========
 
 Spotify playlist curation app
+
 I wanted a way to have two playlists on the screen at a time and move tracks between them, so I built this little app.
 
 Installing
