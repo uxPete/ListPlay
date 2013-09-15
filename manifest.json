@@ -1,0 +1,41 @@
+{
+  "AppURL": "https://github.com/uxPete",
+
+  "AppDescription": {
+    "en": "Playlist utility tool - view 2 playlists and drag n drop between them."
+  },
+  "AppIcon": {
+    "36x18": "images/icons/36x18.png",
+    "64x64": "img/64x64.png",
+    "128x128": "img/128x128.png"
+  },
+  "AppName": {
+    "en": "ListPlay"
+  },
+	"AcceptedLinkTypes":[
+		"album",
+		"artist",
+		"track",
+		"playlist",
+		"user"
+	],
+  "BundleIdentifier": "xlistplay",
+  "BundleType": "Application",
+  "BundleVersion": "1.0.0",
+  "Dependencies": {
+    "api": "1.0.0",
+    "views": "1.10.0"
+  },
+  "RequiredPermissions": [
+    "http://uxPete.com",
+    "http://www.google-analytics.com"
+  ],
+  "SupportedDeviceClasses": [
+    "Web",
+    "Desktop"
+  ],
+  "SupportedLanguages": [
+    "en"
+  ],
+  "VendorIdentifier": "com.uxPete"
+}
