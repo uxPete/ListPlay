@@ -27,5 +27,6 @@ Using
 
 Possible improvements
 -----------------------------------
+* add nowplaying icon when current track came from queue or random, and is in view
 * edit in place - for playlist titles
 
