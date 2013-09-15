@@ -1,0 +1,54 @@
+html {
+  overflow: auto;
+}
+body {
+    margin: 0;
+    padding:0;
+}
+
+#home {
+    margin:1%;
+    height:98%;
+    width:98%;
+    position:absolute;
+    top:0; 
+    bottom:0; 
+    left:0; 
+    right:0;
+}
+#home td {
+    vertical-align: top;
+    height:49%;
+}
+/* Drop Box */
+.playlist_drop_target {
+    border:3px dashed #ecebe8;
+    height:90%;
+}
+.over { border:3px dashed #74c043 !important; }
+.drag_over { border-top:2px solid #555555 !important; }
+.insertAtListEnd { border-bottom:2px solid #555555 !important; }
+.playlisttitle {margin:0}
+.playlisticon {
+    background: url('../images/49-playlist.png') no-repeat top left;
+    display:block;
+    width:26px;
+    height:26px;
+    float:left;
+    background-size: 100%;
+}
+.placeholder h2 {
+    color:#bbb;
+    text-shadow:0 1px 0 white;
+}
+.placeholder td {vertical-align: middle !important;}
+.placeholder-over {border:3px dashed #ccc; background-color:#f0f0f0}
+
+/* prevent dragleave from firing when dragging over any children elements */
+/*
+.playlist_drop_target.dragInProgress * {
+    pointer-events:none !important;
+}
+*/
+
+/* .dragInProgress {border-color: red !important;} */
