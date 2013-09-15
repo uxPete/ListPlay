@@ -28,7 +28,8 @@
   },
   "RequiredPermissions": [
     "http://uxPete.com",
-    "http://www.google-analytics.com"
+    "http://www.google-analytics.com",
+    "http://ajax.googleapis.com"
   ],
   "SupportedDeviceClasses": [
     "Web",
