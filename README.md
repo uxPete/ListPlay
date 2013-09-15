@@ -5,10 +5,13 @@ Spotify playlist curation app
 
 Installing
 ----------
-* Download the zip, expand, rename bundle to xlistplay
-* Move to ~/Spotify
+* To get started you need to have your [Spotify account enabled](https://developer.spotify.com/technologies/apps/#developer-account) as a ‘developer’.
+* If you don't already have one create the [Spotify] folder:
+* ~/Spotify (Mac OS X and Linux)
+* “My Documents\Spotify” (Windows)
+* Download the ListPlay zip, expand, move to Spotify folder
 * Open Spotify, type 'spotify:app:xlistplay' in the search bar
-* Save as a favourite (the 'x' in front of 'listplay' makes it display at the bottom of the apps list. You can change this - just make sure the bundle name and the 'BundleIdentifier' string in the manifest file both match.)
+* Save app as a favourite (the 'x' in front of 'listplay' makes it display at the bottom of the apps list. You can change this - just make sure the bundle name and the 'BundleIdentifier' string in the manifest file both match.)
 
 Using
 -----
