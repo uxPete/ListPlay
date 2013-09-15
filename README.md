@@ -13,7 +13,7 @@ Installing
 * “My Documents\Spotify” (Windows)
 * Download ZIP, expand, rename bundle as 'xlistplay',  move to Spotify folder
 * Open Spotify app, type 'spotify:app:xlistplay' in the search bar
-* Save ListPlay app as a favourite at the prompt (the 'x' in front of 'listplay' makes it display at the bottom of the apps list. You can change this - just make sure the bundle name and the 'BundleIdentifier' string in the manifest file both match.)
+* Save ListPlay app as a favourite (the 'x' in front of 'listplay' makes it display at the bottom of the apps list. You can change this - just make sure the bundle name and the 'BundleIdentifier' string in the manifest file both match.)
 
 Using
 -----
