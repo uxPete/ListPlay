@@ -19,6 +19,7 @@ Using
 * Drag multiple tracks by cmd-selecting them
 * The Delete key removes the selected tracks
 * Dragging tracks with the Shift key down will copy the tracks rather than move them
+* Double-click to play a track etc
 
 
 Features that would be good to implement
