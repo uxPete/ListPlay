@@ -5,7 +5,6 @@ Spotify playlist curation app
 
 Installing
 ----------
-
 * Download the zip, expand, rename bundle to xlistplay
 * Move to ~/Spotify
 * Open Spotify, type 'spotify:app:xlistplay' in the search bar
@@ -13,7 +12,6 @@ Installing
 
 Using
 -----
-
 * Drag n drop a playlist onto each container
 * Drag tracks within a playlist, or from one playlist to another
 * Drag multiple tracks by cmd-selecting them
@@ -24,5 +22,5 @@ Using
 
 Features that would be good to implement
 -----------------------------------
-* 
+* Playlist name edit in place
 
