@@ -5,6 +5,8 @@ Spotify playlist curation app
 
 I wanted a way to have two playlists on the screen at a time and move tracks between them, so I built this little app.
 
+![Screenshot taken Oct 23 2013](http://peteharris.co.uk/img/listplay_screenshot.png)
+
 Installing
 ----------
 * To get started you need to have your [Spotify account enabled](https://developer.spotify.com/technologies/apps/#developer-account) as a ‘developer’.
