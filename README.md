@@ -7,6 +7,8 @@ I wanted a way to have two playlists on the screen at a time and move tracks bet
 
 ![Screenshot taken Oct 23 2013](http://peteharris.co.uk/img/listplay_screenshot.png)
 
+![Screenshot taken Oct 23 2013](http://peteharris.co.uk/img/listplay-draging-tracks-screenshot.png)
+
 Installing
 ----------
 * To get started you need to have your [Spotify account enabled](https://developer.spotify.com/technologies/apps/#developer-account) as a ‘developer’.
@@ -27,8 +29,9 @@ Using
 * Double-click to play a track etc
 
 
-Possible improvements
+Update / Possible improvements
 -----------------------------------
+* A spotify update in Oct 2013 has broken some of the functionality, first thing that needs doing is figuring out what they changed and patching the app. (Unfortunately this is a result of reverse engineering Spotify and doing unspported things with their API).
 * add nowplaying icon when current track came from queue or random, and is in view
 * edit in place - for playlist titles
 
