@@ -31,7 +31,7 @@ Using
 
 Update / Possible improvements
 -----------------------------------
-* A spotify update in Oct 2013 has broken some of the functionality, first thing that needs doing is figuring out what they changed and patching the app. (Unfortunately this is a result of reverse engineering Spotify and doing unspported things with their API).
+* A Spotify update in Oct 2013 has broken some of the functionality, first thing that needs doing is figuring out what they changed and patching the app. (Unfortunately this is a result of reverse engineering Spotify and doing unspported things with their API).
 * add nowplaying icon when current track came from queue or random, and is in view
 * edit in place - for playlist titles
 
